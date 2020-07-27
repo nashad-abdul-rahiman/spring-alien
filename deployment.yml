@@ -15,6 +15,6 @@ spec:
         app: demospringalien
     spec:
       containers:
-      - image: simhalp9/dockerweb
+      - image: simhalp9/springali:11
         name: demospringalien
         
