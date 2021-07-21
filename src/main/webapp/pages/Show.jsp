@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title> Deploy Page</title>
+<title>Test Deploy Page</title>
 </head>
 <body>
 	<form action="addAlien">
